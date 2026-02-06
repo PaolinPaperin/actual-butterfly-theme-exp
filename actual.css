@@ -12,13 +12,21 @@
   --color-formInputBackgroundSelected: #FFF1EA;
   --color-formInputTextPlaceholder: #9E9990;
 
+  /* --- BUDGET SPECIFIC HEADERS & COLUMNS --- */
+  /* This ensures the 'off-month' columns match the main row color */
+  --color-budgetOtherMonth: #FFFEFC; 
+  --color-budgetHeaderCurrentMonth: #F1ECE3; 
+  --color-budgetHeaderOtherMonth: #F1ECE3;
+  --color-tableRowHeaderBackground: #F1ECE3; 
+  --color-tableHeaderBackground: #F1ECE3;
+  --color-tableHeaderText: #4B5563;
+
   /* --- SIDEBAR & ACCENTS --- */
   --color-sidebarBudgetName: #22201D; 
   --color-sidebarItemText: #22201D;
   --color-sidebarItemTextSelected: #F35B16;
   --color-sidebarItemBackgroundSelected: #FFFEFC;
   --color-sidebarItemBackgroundHover: #EDE7DE;
-  /* Fixed the purple indicator line/accent */
   --color-sidebarItemAccentSelected: #F35B16; 
 
   /* --- PILLS & TAGS --- */
