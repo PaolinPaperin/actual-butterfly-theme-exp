@@ -15,7 +15,7 @@
   --color-pageTextLight: #726E66;
   --color-pageTextSubdued: #9E9990;
   --color-pageTextDark: #12110F;
-  --color-pageTextPositive: #16A34A; 
+  --color-pageTextPositive: #22201D; 
   --color-pageTextNegative: #E16259;
   --color-pageTextLink: #F35B16;
   --color-pageTextLinkLight: #FF7D45;
@@ -59,7 +59,7 @@
   --color-budgetNumberZero: #9E9990;
   --color-budgetNumberNegative: #E16259;
   --color-budgetNumberNeutral: #22201D;
-  --color-budgetNumberPositive: #16A34A;
+  --color-budgetNumberPositive: #22201D;
   --color-toBudgetPositive: #16A34A;
   --color-toBudgetZero: #16A34A;
   --color-toBudgetNegative: #E16259;
